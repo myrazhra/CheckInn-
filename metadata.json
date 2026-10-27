@@ -1,0 +1,6 @@
+{
+  "name": "CheckIn+ Event Platform",
+  "description": "CheckIn+ — Smarter Events. Seamless Experiences. Dual-login visitor & organizer event platform featuring real camera QR scanning, moving 3D venue navigation, and live animated crowd intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
